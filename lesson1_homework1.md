@@ -51,4 +51,49 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
  - **meaning:farklı,birkaç,degişik, bir takım**
  - **example sentence:** "I want to  several times do shop"
 
-###
+### compilation;
+ - **meaning:Derleme,derleme eser**
+ - **example sentence:** "The singer will compilation old song again"
+
+### However;
+- **meaning:her nasılsa,her halükarda,nasıl olursa olsun,ancak oysa**
+- **example sentence:** "However, She will learn this program language"
+
+### Compiled;
+- **meaning:derlenmiş,derlenen,**
+- **example sentence:** "This library class compiled by mine"
+
+### Constructs;
+- **meaning: kurmak,inşa etmek**
+- **example sentence:** ""
+
+### Logic;
+- **meaning: mantık**
+- **example sentence** ""
+
+### instructions;
+- **meaning:talimatlar,talimat**
+- **example sentence:** ""
+
+### extend;
+- **meaning:genişletmek,genişlemek,uzatmak,yaymak**
+- **example sentence:** ""
+
+### produce;
+- **meanign:sonuc,üretmek,yetiştirmek,yapmak**
+- **example sentence:** "Farmer is produce vegetables"
+
+### according;
+- **meaning:göre, uygun olarak**
+- **example sentence:**"This car according me" 
+
+### raise;
+- **meaning:zam,yükselme, artış,kabartı**
+- **example sentence:** "My mother was raise chichken ın  use garden"
+
+### intricate;
+- **meaning:karışık,dallı budaklı,karmakarışık**
+- **example sentence:** "The carier path is generally be intricate"
+
+
+
