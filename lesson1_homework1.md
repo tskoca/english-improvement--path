@@ -96,4 +96,22 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
 - **example sentence:** "The carier path is generally be intricate"
 
 
-
+### sort;
+ - **meaning;sıralamak,sınıflandırmak,tür,cesit**
+ - **example sentence:** "I will sort vegetables by types"
+### prime;
+ - **meaning:asal sayı**
+ - **example sentence:** "We solved prime algoritms with my mentor"
+### even;
+ - **meaning:çift,esit**
+ - **example sentence:** "The teacher used the examples of 2 and 4 describe even numbers"
+### directory,folder:
+ - **meaning:dizin**
+ - **example sentence:** "All the files are stored in a hierarchical directory."
+### lexical:
+ - **meaning:sözlük,sözlüksel**
+ - **example sentence:** "Lexical semantics means the study of word meanings."
+ 
+### simplicity:
+ - **meaning:basitlik,sadelik, kolaylık**
+ - **example sentence:** "
