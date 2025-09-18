@@ -114,4 +114,20 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
  
 ### simplicity:
  - **meaning:basitlik,sadelik, kolaylık**
- - **example sentence:** "
+ - **example sentence:** " "
+
+### feature:
+ - **meaning:özellikler**
+ - **example sentence:** "this program has new features after the update."
+
+### volumes: 
+ - **meaning:birimler,depolama birimleri**
+ - **example sentence:** "Disk and volumes on win11 have a unique id called a guid"
+
+### processor:
+ - **meaning:islemci,isleyici,tanımlayıcı**
+ - **example sentence:** ""
+
+### carries:
+ - **meaning:tasımak getırmek götürmek**
+ - **example sentence:** "Let's carry this conversation to a proper meeting room"
