@@ -132,4 +132,12 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
  - **meaning:tasımak getırmek götürmek**
  - **example sentence:** "Let's carry this conversation to a proper meeting room"
 
-###  
+### proof:
+ - **meaning:kanıt**
+ - **example sentence:** we have big proofs for the problem
+
+### expect:
+- **meaning:beklenti**
+- **example sentence:** " I completed this project successfly as I expected"
+
+
