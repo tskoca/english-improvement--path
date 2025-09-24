@@ -131,3 +131,5 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
 ### carries:
  - **meaning:tasımak getırmek götürmek**
  - **example sentence:** "Let's carry this conversation to a proper meeting room"
+
+###  
