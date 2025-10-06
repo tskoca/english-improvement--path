@@ -140,4 +140,31 @@ First lecturer is 'How python programs works' link is here [link](https://dev.to
 - **meaning:beklenti**
 - **example sentence:** " I completed this project successfly as I expected"
 
+### over: 
+- **meaning: üzerinde**
+- **example sentence:** " I had to step  over the cat " 
+
+### probably:
+ - **meaning:muhtemelen**
+ - **example sentence:** " Probably I will choice this."
+
+### straightforward:
+ - **meaning:basitce**
+ - **example sentence:** "You should think  straitforward in this project"
+
+### might:
+ - **meaning:belki**
+ - **example sentence:** " She will come might at night"
+
+### clarity:
+ - **meaning: açıklık**
+ - **example sentence:** "You should say  your think clarity"
+
+### desired:
+ - **meaning: istenen**
+ - **example sentence:** "Long press on the value and enter the desired value"
+
+
+
+
 
